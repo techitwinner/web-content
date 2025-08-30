@@ -6,7 +6,7 @@ tags: ["Website Update"]
 dateCreated: "2025-02-19 15:29:58"
 dateUpdated: "2025-02-19 15:52:30"
 sitemap:
-  loc: /blog/nuxt-to-svelte
+  loc: /posts/nuxt-to-svelte
   lastmod: 2025-02-19
   changefreq: monthly
   priority: 0.8

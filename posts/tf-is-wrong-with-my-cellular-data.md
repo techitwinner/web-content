@@ -6,7 +6,7 @@ tags: ["Network", "Rant", "Internet Issues"]
 dateCreated: "2025-02-25 14:29:32"
 dateUpdated: "2025-02-25 14:31:46"
 sitemap:
-  loc: /blog/tf-is-wrong-with-my-cellular-data
+  loc: /posts/tf-is-wrong-with-my-cellular-data
   lastmod: 2025-02-25
   changefreq: monthly
   priority: 0.8

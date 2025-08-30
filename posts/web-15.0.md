@@ -6,7 +6,7 @@ tags: ["Website Update"]
 dateCreated: "2025-03-10 09:57:22"
 dateUpdated: "2025-03-10 09:59:42"
 sitemap:
-  loc: /blog/web-15.0
+  loc: /posts/web-15.0
   lastmod: 2025-03-10
   changefreq: monthly
   priority: 0.8

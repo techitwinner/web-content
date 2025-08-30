@@ -6,7 +6,7 @@ tags: ["Git", "Website Update"]
 dateCreated: "2025-02-18 11:56:37"
 dateUpdated: "2025-02-18 11:56:37"
 sitemap:
-  loc: /blog/migrate-to-gitlab
+  loc: /posts/migrate-to-gitlab
   lastmod: 2025-02-18
   changefreq: monthly
   priority: 0.8

@@ -6,7 +6,7 @@ tags: ["Website Update"]
 dateCreated: "2025-02-22 10:38:06"
 dateUpdated: "2025-02-22 10:39:47"
 sitemap:
-  loc: /blog/back-to-nuxt
+  loc: /posts/back-to-nuxt
   lastmod: 2025-02-22
   changefreq: monthly
   priority: 0.8
