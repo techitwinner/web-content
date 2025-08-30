@@ -1,0 +1,29 @@
+---
+title: "Blog system and new looking website"
+description: "Explain about new website update version 14.0.0"
+coverImage: "screenshot_2025_02_16_22_16_32_93_40deb401b9ffe8e1df2f1cc5ba480b12_m1phhu9zlp.jpg"
+tags: ["Website Update"]
+dateCreated: "2025-02-16 15:22:50"
+dateUpdated: "2025-02-16 15:26:48"
+sitemap:
+  loc: /blog/web-14.0
+  lastmod: 2025-02-16
+  changefreq: monthly
+  priority: 0.8
+---
+
+## Yayayayayayayay
+
+My website used to have blog system, unntil it broke downn and I'm too lazy to fix it.
+
+Now I have it again, with new looking, that use over 600 lines of CSS
+
+## Theming
+
+I copied Material Design 3 from Google but instead of using Flutter, I wrote it entirely using Nuxt and pure CSS (no Tailwind)
+
+## Blog system
+
+Not much about blog, I used Pocketbase and then fetch the data here, then map it
+
+I promise I will not rewrite the website again, because this design looks stunning
