@@ -1,7 +1,7 @@
 ---
 title: "Moved Back to Nuxt"
 description: "Switched from Svelte back to Nuxt because I was too lazy to fix open graph issues"
-coverImage: "ilovenuxt_62t6u55bzn.png"
+coverImage: "ilovenuxt_62t6u55bzn.webp"
 tags: ["Website Update"]
 dateCreated: "2025-02-22 10:38:06"
 dateUpdated: "2025-02-22 10:39:47"

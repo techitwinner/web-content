@@ -1,7 +1,7 @@
 ---
 title: "LaTeX Test!"
 description: "Just testing some LaTeX..."
-coverImage: "latex-test-039453098454.png"
+coverImage: "latex-test-039453098454.webp"
 tags: ["Website Update"]
 dateCreated: "2025-08-30 10:38:06"
 dateUpdated: "2025-08-30 10:39:47"

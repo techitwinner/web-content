@@ -1,7 +1,7 @@
 ---
 title: "Big framework switch"
 description: "I moved from nuxt.js to Svelte because I broke Nuxt"
-coverImage: "svelte_machine_mobile_bfhacr2lk4.B0w2rScM.png"
+coverImage: "svelte_machine_mobile_bfhacr2lk4.B0w2rScM.webp"
 tags: ["Website Update"]
 dateCreated: "2025-02-19 15:29:58"
 dateUpdated: "2025-02-19 15:52:30"

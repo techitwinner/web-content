@@ -1,7 +1,7 @@
 ---
 title: "What is wrong with my internet????"
 description: "Ranting about my cellular data, while I wait for new fiber internet"
-coverImage: "project_20250225093124_zojzcz15wh.jpg"
+coverImage: "project_20250225093124_zojzcz15wh.webp"
 tags: ["Network", "Rant", "Internet Issues"]
 dateCreated: "2025-02-25 14:29:32"
 dateUpdated: "2025-02-25 14:31:46"
